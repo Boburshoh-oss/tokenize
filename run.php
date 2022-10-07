@@ -1,5 +1,9 @@
 <?php
-
+/**
+ * System messages translation for CodeIgniter(tm)
+ * @link	https://korrektor.uz
+ * @link	https://github.com/korrektoruz/tokenize
+*/
 function createMap($parts=[]) {
     $checkArrIndex = function($arr, $i){
         return ( $i < strlen($arr) ) ? $arr[$i] : '';
