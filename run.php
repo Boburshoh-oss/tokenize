@@ -1,6 +1,5 @@
 <?php
 /**
- * System messages translation for CodeIgniter(tm)
  * @link	https://korrektor.uz
  * @link	https://github.com/korrektoruz/tokenize
 */
